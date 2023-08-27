@@ -5,7 +5,7 @@ Simple banking system with MySQL integration
 
 ## Features
 
-- Create a new bank account with the account holder's name, city, and mobile number (11 digits).
+- Create a new bank account with the account holder's name, gender, city, and mobile number (11 digits).
 - Deposit money into an existing account, updating the account balance.
 - Withdraw funds from an account, provided the balance is sufficient.
 - View account details, including the account holder's information and current balance.
@@ -25,7 +25,7 @@ Simple banking system with MySQL integration
 Data validation has been incorporated into the code to ensure accurate and secure input. The program prompts users for valid 11-digit mobile numbers and positive integer values for deposit and withdrawal amounts.
 
 ## Contributing
-Data validation has been incorporated into the code to ensure accurate and secure input. The program prompts users for valid 11-digit mobile numbers and positive integer values for deposit and withdrawal amounts.
+Contributions to enhance and expand this simple banking system are welcome. You can fork the repository, make your improvements, and submit a pull request.
 
 ## License
 
